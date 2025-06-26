@@ -1,4 +1,4 @@
-# PY-MYSQL-CONNECTIVITY
+# PROJECT USING PYTHON MYSQL CONNECTIVITY
 This Library Management System is a simple console-based Python project that allows users to manage books in a library using a MySQL database for backend storage. The project enables essential library operations such as adding, removing, issuing, and returning books.
 
 🔧 Key Features:
