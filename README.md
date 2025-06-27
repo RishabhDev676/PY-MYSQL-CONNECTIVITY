@@ -13,3 +13,5 @@ User-friendly text-based menu interface for interaction.
 Frontend: Python (console)
 Backend: MySQL (tables: available_books, issued)
 Database Connector: mysql.connector
+
+Author - RISHABH DEV
